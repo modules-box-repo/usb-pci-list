@@ -1,0 +1,10 @@
+id=usb-pci-list
+name=USB & PCI List
+icon=icon.jpg
+description=View connected USB devices and Peripheral Component Interconnect (PCI) devices.
+author=YasserNull
+version=v1.0.0
+versionCode=1
+repository=https://github.com/modules-box-repo/usb-pci-list
+install=setup.sh
+permission=shizuku
