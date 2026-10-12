@@ -10,4 +10,7 @@ View connected USB devices and Peripheral Component Interconnect (PCI) devices, 
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg"/>
 </p>
 
-![](docs/images/screenshot0.jpg)
+<p align="center">
+  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot0.jpg" width="30%">
+  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot1.jpg" width="30%">
+</p>
