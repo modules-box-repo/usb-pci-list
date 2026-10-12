@@ -11,6 +11,6 @@ View connected USB devices and Peripheral Component Interconnect (PCI) devices, 
 </p>
 
 <p align="center">
-  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot0.jpg" width="30%">
-  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot1.jpg" width="30%">
+  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot0.jpg" width="45%">
+  <img src="https://github.com/modules-box-repo/usb-pci-list/blob/main/docs/images/screenshot1.jpg" width="45%">
 </p>
